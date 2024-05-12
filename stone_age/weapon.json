@@ -1,0 +1,302 @@
+[
+   {
+      "id":"kansallisgalleria.B844FC78C4A25488AA09F34C617DBE7E",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.B844FC78C4A25488AA09F34C617DBE7E&index=0&size=large",
+      "imageDescription":"M. A. Calonius, portrait medallion",
+      "nonPresenterAuthorsName":"Cainberg, Erik",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1796"
+         ]
+      ],
+      "title":"M. A. Calonius",
+      "year":"1796"
+   },
+   {
+      "id":"kansallisgalleria.A433DD5DC91D115041DEB1F9CCD3FAFC",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.A433DD5DC91D115041DEB1F9CCD3FAFC&index=0&size=large",
+      "imageDescription":"Portrait medallion of master builder Jacob Rijf",
+      "nonPresenterAuthorsName":"Cainberg, Erik",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1799"
+         ]
+      ],
+      "title":"Rakennusmestari Jacob Rijf",
+      "year":"1799"
+   },
+   {
+      "id":"kansallisgalleria.BA22B5E789D77D4725343B00676FF7F4",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.BA22B5E789D77D4725343B00676FF7F4&index=0&size=large",
+      "imageDescription":"Bust of Elias Lönnrot ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1857-1858, valmistusaika 1857/58"
+         ]
+      ],
+      "title":"Elias Lönnrotin rintakuva",
+      "year":"1857"
+   },
+   {
+      "id":"kansallisgalleria.D8F2489E4E10BBABBEA1EAE542C02825",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.D8F2489E4E10BBABBEA1EAE542C02825&index=0&size=large",
+      "imageDescription":"Väinämöinen",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1857"
+         ]
+      ],
+      "title":"Väinämöinen",
+      "year":"1857"
+   },
+   {
+      "id":"kansallisgalleria.15793FBD1EC26F83D5D7C06E349863BD",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.15793FBD1EC26F83D5D7C06E349863BD&index=0&size=large",
+      "imageDescription":"Kullervo Tearing His Swaddling Clothes ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1858"
+         ]
+      ],
+      "title":"Kullervo katkoo kapalonsa",
+      "year":"1858"
+   },
+   {
+      "id":"kansallisgalleria.CE1D3D7FA1638EECD32BBE0D813C33EE",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.CE1D3D7FA1638EECD32BBE0D813C33EE&index=0&size=large",
+      "imageDescription":"Portrait of Fredrik Cygnaeus ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas and Uurainen, D.",
+      "role":"taiteilija and valaja",
+      "subjects":[
+         [
+            "valmistusaika 1859-1862, valmistusaika 1859-1862, tämä valos 1933"
+         ]
+      ],
+      "title":"Fredrik Cygnaeuksen muotokuva",
+      "year":"1859"
+   },
+   {
+      "id":"kansallisgalleria.EAA9E0EA3CF461F8D5E280A00CB0B9CA",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.EAA9E0EA3CF461F8D5E280A00CB0B9CA&index=0&size=large",
+      "imageDescription":"Väinämöinen ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1859"
+         ]
+      ],
+      "title":"Väinämöinen",
+      "year":"1859"
+   },
+   {
+      "id":"kansallisgalleria.1746C176DB71E739CFA4D04980A83E55",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.1746C176DB71E739CFA4D04980A83E55&index=0&size=large",
+      "imageDescription":"Sitting cat",
+      "nonPresenterAuthorsName":"Takanen, Johannes",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1860-1869, valmistusaika 1860-luku"
+         ]
+      ],
+      "title":"Istuva kissa",
+      "year":"1860"
+   },
+   {
+      "id":"kansallisgalleria.37172EC4E76CD64C84B187C5420F1F21",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.37172EC4E76CD64C84B187C5420F1F21&index=0&size=large",
+      "imageDescription":"Bust of JL Runeberg ",
+      "nonPresenterAuthorsName":"Runeberg, Walter",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1861"
+         ]
+      ],
+      "title":"J. L. Runebergin muotokuva",
+      "year":"1861"
+   },
+   {
+      "id":"kansallisgalleria.D108B8881BD5A6C5175740A87CF3B1C0",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.D108B8881BD5A6C5175740A87CF3B1C0&index=0&size=large",
+      "imageDescription":"Bust of The Painter Werner Holmberg ",
+      "nonPresenterAuthorsName":"Runeberg, Walter",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1862"
+         ]
+      ],
+      "title":"Taidemaalari Werner Holmbergin rintakuva",
+      "year":"1862"
+   },
+   {
+      "id":"kansallisgalleria.383715A43003082D45FBAA4FE23C1BFB",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.383715A43003082D45FBAA4FE23C1BFB&index=0&size=large",
+      "imageDescription":"Miniature model of Henrik Gabriel Porthan's monument; Porthan's monument on a reduced scale ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1864-1865, valmistusaika n. 1864-1965"
+         ]
+      ],
+      "title":"Henrik Gabriel Porthanin patsaan pienoismalli",
+      "year":"1864"
+   },
+   {
+      "id":"kansallisgalleria.4DA29C1D2C5C8ED4E33DCC351C689D9C",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.4DA29C1D2C5C8ED4E33DCC351C689D9C&index=0&size=large",
+      "imageDescription":"Portrait of Court Mistress Leontine Weckström ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1864"
+         ]
+      ],
+      "title":"Hovineuvoksetar Leontine Weckströmin muotokuvamedaljonki",
+      "year":"1864"
+   },
+   {
+      "id":"kansallisgalleria.71F6069C8FC9218411279C0521F9108B",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.71F6069C8FC9218411279C0521F9108B&index=0&size=large",
+      "imageDescription":"Portrait of Karl A. Weckström's portrait medallion ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1864"
+         ]
+      ],
+      "title":"Hovineuvos Karl A. Weckströmin muotokuvamedaljonki",
+      "year":"1864"
+   },
+   {
+      "id":"kansallisgalleria.87FAC646B0C013032DAA145598E29903",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.87FAC646B0C013032DAA145598E29903&index=0&size=large",
+      "imageDescription":"A praying angel ",
+      "nonPresenterAuthorsName":"Takanen, Johannes",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1864, valmistusaika 1864"
+         ]
+      ],
+      "title":"Rukoileva enkeli",
+      "year":"1864"
+   },
+   {
+      "id":"kansallisgalleria.E6601EDC8D772E5CA974B67B5F966E34",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.E6601EDC8D772E5CA974B67B5F966E34&index=0&size=large",
+      "imageDescription":"Horseman, youth work ",
+      "nonPresenterAuthorsName":"Takanen, Johannes",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1864, valmistusaika 1864"
+         ]
+      ],
+      "title":"Ratsastaja, nuoruudentyö",
+      "year":"1864"
+   },
+   {
+      "id":"kansallisgalleria.3DFA7994AEF259278B187E7C419C5B9C",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.3DFA7994AEF259278B187E7C419C5B9C&index=0&size=large",
+      "imageDescription":"Finland Protecting Her Constitution, sketch ",
+      "nonPresenterAuthorsName":"Runeberg, Walter",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1865"
+         ]
+      ],
+      "title":"Suomi suojelee perustuslakejaan, luonnos",
+      "year":"1865"
+   },
+   {
+      "id":"kansallisgalleria.7001B2FEACB641B6A83DDF0F7F812C1A",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.7001B2FEACB641B6A83DDF0F7F812C1A&index=0&size=large",
+      "imageDescription":"Ilmarinen Forging the Moon ",
+      "nonPresenterAuthorsName":"Runeberg, Walter",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1866"
+         ]
+      ],
+      "title":"Ilmarinen takoo kuuta",
+      "year":"1866"
+   },
+   {
+      "id":"kansallisgalleria.33F1008EA9A3ACFDFCABFC096F2E238D",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.33F1008EA9A3ACFDFCABFC096F2E238D&index=0&size=large",
+      "imageDescription":"Portrait Medallion of the Painter RW Ekman ",
+      "nonPresenterAuthorsName":"Runeberg, Walter",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1867"
+         ]
+      ],
+      "title":"Taidemaalari R. W. Ekmanin muotokuvamedaljonki",
+      "year":"1867"
+   },
+   {
+      "id":"kansallisgalleria.8035107F00FE432FFC7067101AC99810",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.8035107F00FE432FFC7067101AC99810&index=0&size=large",
+      "imageDescription":"Bust of linguist Vilhelm Thomsen ",
+      "nonPresenterAuthorsName":"Takanen, Johannes",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1868"
+         ]
+      ],
+      "title":"Kielentutkija Vilhelm Thomsenin rintakuva",
+      "year":"1868"
+   },
+   {
+      "id":"kansallisgalleria.CC0773F42A5E444CEE92CB84AC1AB507",
+      "imageCopyright":"CC0",
+      "images":"https://api.finna.fi/Cover/Show?source=Solr&id=kansallisgalleria.CC0773F42A5E444CEE92CB84AC1AB507&index=0&size=large",
+      "imageDescription":"Kullervo Addressing His Sword ",
+      "nonPresenterAuthorsName":"Sjöstrand, Carl Eneas",
+      "role":"taiteilija",
+      "subjects":[
+         [
+            "valmistusaika 1868"
+         ]
+      ],
+      "title":"Kullervo puhuu miekalleen",
+      "year":"1868"
+   }
+]
